@@ -202,7 +202,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
     <option name="PRESERVE_CASE_REPLACE" value="false" />
-    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="COMMENTS_ONLY" value="false" />
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="EXCEPT_COMMENTS" value="false" />
@@ -214,40 +214,40 @@
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="false" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="writeac" />
-          <item index="1" class="java.lang.String" itemvalue="updateStoragesFromStreamProvider" />
-          <item index="2" class="java.lang.String" itemvalue="getapp" />
-          <item index="3" class="java.lang.String" itemvalue="getApplication" />
-          <item index="4" class="java.lang.String" itemvalue="deleteFile" />
-          <item index="5" class="java.lang.String" itemvalue="StorageUtil" />
-          <item index="6" class="java.lang.String" itemvalue="getExternalFileName" />
-          <item index="7" class="java.lang.String" itemvalue="anti" />
-          <item index="8" class="java.lang.String" itemvalue="righ" />
-          <item index="9" class="java.lang.String" itemvalue="compact" />
-          <item index="10" class="java.lang.String" itemvalue="try" />
-          <item index="11" class="java.lang.String" itemvalue="invokeAndWaitIfNeeded" />
-          <item index="12" class="java.lang.String" itemvalue="IS_NATIVE2ASCII_FOR_PROPERTIES_FILES" />
-          <item index="13" class="java.lang.String" itemvalue="DEFAULT_PROPERTIES_FILES_CHARSET_NAME" />
-          <item index="14" class="java.lang.String" itemvalue="com.intellij.openapi.editor.ex.EditorSettingsExternalizable" />
-          <item index="15" class="java.lang.String" itemvalue="clone" />
-          <item index="16" class="java.lang.String" itemvalue="right" />
-          <item index="17" class="java.lang.String" itemvalue="CARET_BLINKING_PERIOD" />
-          <item index="18" class="java.lang.String" itemvalue="ARE_LINE_NUMBERS_SHOWN" />
-          <item index="19" class="java.lang.String" itemvalue="java" />
-          <item index="20" class="java.lang.String" itemvalue="javac" />
-          <item index="21" class="java.lang.String" itemvalue="crede" />
-          <item index="22" class="java.lang.String" itemvalue="invokean" />
-          <item index="23" class="java.lang.String" itemvalue="computab" />
-          <item index="24" class="java.lang.String" itemvalue="invokeAndWait" />
-          <item index="25" class="java.lang.String" itemvalue="restart" />
-          <item index="26" class="java.lang.String" itemvalue="restartApplication" />
-          <item index="27" class="java.lang.String" itemvalue="restartt" />
-          <item index="28" class="java.lang.String" itemvalue="SSH executable" />
-          <item index="29" class="java.lang.String" itemvalue="applicationService" />
+          <item index="0" class="java.lang.String" itemvalue="DEFAULT_PROPERTIES_FILES_CHARSET_NAME" />
+          <item index="1" class="java.lang.String" itemvalue="com.intellij.openapi.editor.ex.EditorSettingsExternalizable" />
+          <item index="2" class="java.lang.String" itemvalue="clone" />
+          <item index="3" class="java.lang.String" itemvalue="right" />
+          <item index="4" class="java.lang.String" itemvalue="CARET_BLINKING_PERIOD" />
+          <item index="5" class="java.lang.String" itemvalue="ARE_LINE_NUMBERS_SHOWN" />
+          <item index="6" class="java.lang.String" itemvalue="java" />
+          <item index="7" class="java.lang.String" itemvalue="javac" />
+          <item index="8" class="java.lang.String" itemvalue="crede" />
+          <item index="9" class="java.lang.String" itemvalue="invokean" />
+          <item index="10" class="java.lang.String" itemvalue="computab" />
+          <item index="11" class="java.lang.String" itemvalue="invokeAndWait" />
+          <item index="12" class="java.lang.String" itemvalue="restart" />
+          <item index="13" class="java.lang.String" itemvalue="restartApplication" />
+          <item index="14" class="java.lang.String" itemvalue="restartt" />
+          <item index="15" class="java.lang.String" itemvalue="SSH executable" />
+          <item index="16" class="java.lang.String" itemvalue="applicationService" />
+          <item index="17" class="java.lang.String" itemvalue="getimplem" />
+          <item index="18" class="java.lang.String" itemvalue="MyComponentAdapter" />
+          <item index="19" class="java.lang.String" itemvalue="ComponentAdapter" />
+          <item index="20" class="java.lang.String" itemvalue="isassig" />
+          <item index="21" class="java.lang.String" itemvalue="LastSelectedPropertiesFileStore" />
+          <item index="22" class="java.lang.String" itemvalue="getComponentImplementation" />
+          <item index="23" class="java.lang.String" itemvalue="GithubSslSupport" />
+          <item index="24" class="java.lang.String" itemvalue="doStrip =" />
+          <item index="25" class="java.lang.String" itemvalue="overr" />
+          <item index="26" class="java.lang.String" itemvalue="OVERRIDE_STRIP_TRAILING_SPACES_KEY" />
+          <item index="27" class="java.lang.String" itemvalue="overrideStripTrailingSpacesData" />
+          <item index="28" class="java.lang.String" itemvalue="doStrip" />
+          <item index="29" class="java.lang.String" itemvalue="getStripTrailingSpaces" />
         </list>
       </value>
     </option>
