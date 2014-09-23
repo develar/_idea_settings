@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
@@ -39,4 +38,3 @@
     <toolWindow group="notification.group.id.gradle" />
   </component>
 </application>
-

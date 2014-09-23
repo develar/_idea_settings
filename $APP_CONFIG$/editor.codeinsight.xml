@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Default">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="true" />
@@ -11,4 +10,3 @@
     <option name="SHOW_SMALL_ICONS_IN_GUTTER" value="true" />
   </component>
 </application>
-
