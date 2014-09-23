@@ -461,7 +461,7 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="filter_non_existing" value="false" />
     <property name="installation.uid" value="59a1d7a4-bd32-454e-b5ef-d3b174686796" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
     <property name="export.settings.path" value="$USER_HOME$/settings.jar" />
     <property name="evlsprt3.IU-130.1603" value="19" />
     <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
