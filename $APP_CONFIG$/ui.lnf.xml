@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="UISettings">
     <option name="HIDE_TOOL_STRIPES" value="false" />
@@ -6,4 +5,3 @@
     <option name="SHOW_NAVIGATION_BAR" value="false" />
   </component>
 </application>
-

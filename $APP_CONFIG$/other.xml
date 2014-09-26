@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -84,7 +83,6 @@
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>
-  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/servicesgtee" />
   <component name="XDebuggerSettings">
     <debuggers>
       <debugger id="groovy_debugger">
@@ -105,4 +103,3 @@
     </recent_templates>
   </component>
 </application>
-
