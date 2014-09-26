@@ -29,17 +29,17 @@
     </runner>
     <runner id="Debug">
       <ViewImpl>
-        <option name="ID" value="FrameContent" />
-        <option name="minimizedInGrid" value="false" />
-        <option name="placeInGrid" value="left" />
-        <option name="tabIndex" value="0" />
-        <option name="window" value="0" />
-      </ViewImpl>
-      <ViewImpl>
         <option name="ID" value="WatchesContent" />
         <option name="minimizedInGrid" value="false" />
         <option name="placeInGrid" value="right" />
         <option name="tabIndex" value="2" />
+        <option name="window" value="0" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="FrameContent" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="left" />
+        <option name="tabIndex" value="0" />
         <option name="window" value="0" />
       </ViewImpl>
       <ViewImpl>

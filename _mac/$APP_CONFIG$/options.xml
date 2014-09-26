@@ -7,7 +7,7 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="440" />
     <location key="OptionsEditor.0.0.2560.1440" x="96" y="212" />
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="707" />
-    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="255" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="219" />
     <location key="ProcessPopupWindow.0.0.1440.900" x="400" y="620" />
     <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="634" y="481" />
     <location key="MultipleFileMergeDialog.0.0.2560.1440" x="260" y="139" />
@@ -348,10 +348,10 @@
     <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="1011" height="252" />
     <size key="EditParametersPopupWindow.0.0.2560.1440" width="853" height="565" />
     <size key="RollbackChangesDialog.0.0.2560.1440" width="434" height="528" />
-    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2518" height="522" />
-    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2518" height="522" />
-    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2518" height="522" />
-    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2518" height="522" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2518" height="508" />
     <size key="VCS.ChangeListViewerDialog.0.0.2560.1440" width="828" height="561" />
     <size key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.2560.1440" width="791" height="519" />
     <size key="findTextDialog.0.0.2560.1440" width="1134" height="537" />
@@ -424,14 +424,14 @@
     <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
     <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.2" state="500" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
-    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="541" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.sisyphus.ui.issues.IssuesForm.0" state="487" />
     <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
     <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
-    <extendedState key="CommittedChanges.SplitterProportions.0" state="541" />
+    <extendedState key="DiffWindow" state="0" />
     <extendedState key="com.intellij.sisyphus.ui.issues.IssuesForm.2" state="500" />
     <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.0" state="500" />
   </component>
