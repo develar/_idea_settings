@@ -83,7 +83,6 @@
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>
-  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/servicesfff" />
   <component name="XDebuggerSettings">
     <debuggers>
       <debugger id="groovy_debugger">
