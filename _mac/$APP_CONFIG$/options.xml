@@ -7,7 +7,7 @@
     <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="440" />
     <location key="OptionsEditor.0.0.2560.1440" x="96" y="212" />
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="707" />
-    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="219" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="201" />
     <location key="ProcessPopupWindow.0.0.1440.900" x="400" y="620" />
     <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="634" y="481" />
     <location key="MultipleFileMergeDialog.0.0.2560.1440" x="260" y="139" />
@@ -254,14 +254,14 @@
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveKotlinTopLevelDeclarationsDialog.classes.0.0.2560.1440" x="1044" y="603" />
     <location key="com.intellij.dvcs.push.ui.VcsPushDialog.0.0.2560.1440" x="869" y="455" />
     <location key="Vcs.Push.Dialog.0.0.2560.1440" x="883" y="455" />
-    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="474" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="474" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="474" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="474" />
     <size key="DiffWindow.0.0.2560.1440" width="1328" height="1086" />
     <size key="OptionsEditor.0.0.2560.1440" width="1969" height="888" />
     <size key="ProcessPopupWindow.0.0.2560.1440" width="1329" height="123" />
@@ -348,10 +348,10 @@
     <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="1011" height="252" />
     <size key="EditParametersPopupWindow.0.0.2560.1440" width="853" height="565" />
     <size key="RollbackChangesDialog.0.0.2560.1440" width="434" height="528" />
-    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2518" height="405" />
     <size key="VCS.ChangeListViewerDialog.0.0.2560.1440" width="828" height="561" />
     <size key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.2560.1440" width="791" height="519" />
     <size key="findTextDialog.0.0.2560.1440" width="1134" height="537" />
@@ -361,10 +361,10 @@
     <size key="CommitChangelistDialog2.0.0.2560.1440" width="1515" height="1065" />
     <size key="git4idea.push.GitPushDialog.0.0.2560.1440" width="1293" height="561" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1354" height="742" />
-    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="508" />
-    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="508" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="405" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="405" />
     <size key="ProcessPopupWindow.0.0.1600.900" width="400" height="172" />
     <size key="GridCell.Tab.0.left.0.0.1600.900" width="2518" height="488" />
     <size key="GridCell.Tab.0.center.0.0.1600.900" width="2518" height="488" />
