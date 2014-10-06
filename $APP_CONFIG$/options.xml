@@ -17,5 +17,6 @@
     <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
+    <property name="FindSplitterProportion" value="0.25" />
   </component>
 </application>
