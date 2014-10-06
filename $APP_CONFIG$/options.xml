@@ -11,5 +11,9 @@
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="evlsprt3.IU-140.SNAPSHOT" value="13" />
     <property name="installation.uid" value="4d1e7473-8975-467a-94a7-6e69048a3f46" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
   </component>
 </application>

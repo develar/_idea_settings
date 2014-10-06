@@ -1,0 +1,8 @@
+<application>
+  <component name="MultiLanguageDuplocatorSettings" language="HTML">
+    object
+    <option name="LOWER_BOUND" value="4" />
+    <option name="DISCARD_COST" value="0" />
+    <option name="DISTINGUISH_ATTRIBUTE_VALUES" value="true" />
+  </component>
+</application>
