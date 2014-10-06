@@ -1,13 +1,13 @@
 <application>
   <component name="DimensionService">
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="118" y="125" />
-    <location key="DiffWindow.0.0.2560.1440" x="238" y="116" />
+    <location key="DiffWindow.0.0.2560.1440" x="238" y="22" />
     <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.2560.1440" x="1059" y="652" />
     <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.2560.1440" x="1128" y="658" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="440" />
     <location key="OptionsEditor.0.0.2560.1440" x="96" y="212" />
-    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="707" />
-    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="201" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="300" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="147" />
     <location key="ProcessPopupWindow.0.0.1440.900" x="400" y="620" />
     <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="634" y="481" />
     <location key="MultipleFileMergeDialog.0.0.2560.1440" x="260" y="139" />
@@ -464,7 +464,7 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="filter_non_existing" value="false" />
     <property name="installation.uid" value="59a1d7a4-bd32-454e-b5ef-d3b174686796" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
     <property name="export.settings.path" value="$USER_HOME$/settings.jar" />
     <property name="evlsprt3.IU-130.1603" value="19" />
     <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
@@ -547,7 +547,7 @@
     <property name="dir.diff.space.button.info" value="2" />
     <property name="evlsprt3.IU-138.29" value="11" />
     <property name="evlsprt3.IU-138.SNAPSHOT" value="13" />
-    <property name="installed.kotlin.plugin.version" value="0.8.1390" />
+    <property name="installed.kotlin.plugin.version" value="0.8.1559" />
     <property name="evlsprt3.IU-138.182" value="10" />
     <property name="ignore.unsupported.jvm.ea.message" value="true" />
     <property name="SourceMapInspector.splitter" value="0.5" />
@@ -571,5 +571,6 @@
     <property name="CodeReview.CommitsCommentsSplitter.Proportion" value="0.5" />
     <property name="CodeReview.GeneralComments.Visible" value="true" />
     <property name="evlsprt3.IU-138.2259" value="18" />
+    <property name="evlsprt3.IU-138.2620" value="19" />
   </component>
 </application>

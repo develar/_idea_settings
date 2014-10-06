@@ -288,9 +288,13 @@
   </component>
   <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" ASK_TO_INSTALL_SOAPUI="true" />
   <component name="XDebuggerSettings">
+    <data-views />
+    <general />
     <debuggers>
       <debugger id="javascript">
-        <configuration />
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
       </debugger>
       <debugger id="groovy_debugger">
         <configuration />
