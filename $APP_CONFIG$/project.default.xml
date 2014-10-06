@@ -20,7 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="CopyrightManager" default="" />
       <component name="DaemonCodeAnalyzer">
         <disable_hints />
       </component>
@@ -52,7 +51,6 @@
       </component>
       <component name="RunManager">
         <configuration default="true" type="JUnit" factoryName="JUnit">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
           <option name="ALTERNATIVE_JRE_PATH" />
@@ -100,7 +98,6 @@
           <method />
         </configuration>
         <configuration default="true" type="Application" factoryName="Application">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <option name="MAIN_CLASS_NAME" />
           <option name="VM_PARAMETERS" />
           <option name="PROGRAM_PARAMETERS" />
@@ -114,35 +111,13 @@
           <envs />
           <method />
         </configuration>
-        <configuration default="true" type="TestNG" factoryName="TestNG">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <module name="" />
-          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-          <option name="ALTERNATIVE_JRE_PATH" />
-          <option name="SUITE_NAME" />
-          <option name="PACKAGE_NAME" />
+        <list size="0" />
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
-          <option name="METHOD_NAME" />
-          <option name="GROUP_NAME" />
-          <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
           <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-          <option name="OUTPUT_DIRECTORY" />
-          <option name="ANNOTATION_TYPE" />
-          <option name="ENV_VARIABLES" />
-          <option name="PASS_PARENT_ENVS" value="true" />
-          <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="moduleWithDependencies" />
-          </option>
-          <option name="USE_DEFAULT_REPORTERS" value="false" />
-          <option name="PROPERTIES_FILE" />
-          <envs />
-          <properties />
-          <listeners />
-          <method />
         </configuration>
-        <list size="0" />
       </component>
     </defaultProject>
   </component>
