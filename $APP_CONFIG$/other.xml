@@ -34,6 +34,15 @@
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="ruby">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">

@@ -4,5 +4,7 @@
     <toolWindow group="Find in Path" />
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Flash app not compiled before launch" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
