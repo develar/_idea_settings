@@ -31,5 +31,6 @@
     <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="create.member.preselect.anonymous" value="false" />
   </component>
 </application>
