@@ -72,6 +72,7 @@
         <option name="index" value="1" />
       </TabImpl>
       <TabImpl>
+        <option name="defaultIndex" value="2" />
         <option name="index" value="2" />
         <option name="rightProportion" value="0.19983819" />
       </TabImpl>
