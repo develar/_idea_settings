@@ -19,5 +19,10 @@
     <property name="Tests" value="Green" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
   </component>
 </application>
