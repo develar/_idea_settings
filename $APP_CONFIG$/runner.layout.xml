@@ -23,35 +23,14 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="2" />
-        <option name="displayName" />
-        <option name="index" value="0" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="1" />
-        <option name="displayName" />
         <option name="index" value="1" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
-      <General>
-        <option name="horizontalToolbar" value="false" />
-        <option name="focusOnCondition">
-          <map />
-        </option>
-      </General>
+      <General />
     </runner>
     <runner id="JavaDebugger">
       <ViewImpl>
@@ -153,59 +132,25 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
-        <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
         <option name="displayName" value="Debugger" />
-        <option name="index" value="0" />
-        <option name="leftDetached" value="false" />
         <option name="leftProportion" value="0.18713018" />
-        <option name="rightDetached" value="false" />
         <option name="rightProportion" value="0.19970414" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="1" />
-        <option name="displayName" />
         <option name="index" value="1" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
-        <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
-        <option name="displayName" />
         <option name="index" value="2" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
         <option name="rightProportion" value="0.3321006" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="4" />
-        <option name="displayName" />
         <option name="index" value="3" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
-      <General>
-        <option name="horizontalToolbar" value="false" />
-        <option name="focusOnCondition">
-          <map />
-        </option>
-      </General>
+      <General />
     </runner>
     <runner id="JavaRunner">
       <ViewImpl>
@@ -258,35 +203,14 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
-        <option name="displayName" />
-        <option name="index" value="0" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="2" />
-        <option name="displayName" />
         <option name="index" value="1" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
-      <General>
-        <option name="horizontalToolbar" value="false" />
-        <option name="focusOnCondition">
-          <map />
-        </option>
-      </General>
+      <General />
     </runner>
     <runner id="Debug">
       <ViewImpl>
@@ -367,59 +291,25 @@
         <option name="window" value="0" />
       </ViewImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
-        <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
         <option name="displayName" value="Debugger" />
-        <option name="index" value="0" />
-        <option name="leftDetached" value="false" />
         <option name="leftProportion" value="0.19759825" />
-        <option name="rightDetached" value="false" />
         <option name="rightProportion" value="0.19923581" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="1" />
-        <option name="displayName" />
         <option name="index" value="1" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
-        <option name="bottomProportion" value="0.5" />
-        <option name="centerDetached" value="false" />
-        <option name="defaultIndex" value="0" />
-        <option name="displayName" />
         <option name="index" value="2" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
         <option name="rightProportion" value="0.19923581" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomDetached" value="false" />
         <option name="bottomProportion" value="0.0" />
-        <option name="centerDetached" value="false" />
         <option name="defaultIndex" value="4" />
-        <option name="displayName" />
         <option name="index" value="3" />
-        <option name="leftDetached" value="false" />
-        <option name="leftProportion" value="0.2" />
-        <option name="rightDetached" value="false" />
-        <option name="rightProportion" value="0.2" />
       </TabImpl>
-      <General>
-        <option name="horizontalToolbar" value="false" />
-        <option name="focusOnCondition">
-          <map />
-        </option>
-      </General>
+      <General />
     </runner>
   </component>
 </application>
