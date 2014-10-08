@@ -33,5 +33,8 @@
     <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="create.member.preselect.anonymous" value="false" />
     <property name="PLUGIN_FILTER" value="settings repos" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="project.wizard.template" value="Java" />
   </component>
 </application>
