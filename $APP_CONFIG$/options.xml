@@ -32,5 +32,6 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="RunConfigurable.dividerProportion" value="0.3" />
     <property name="create.member.preselect.anonymous" value="false" />
+    <property name="PLUGIN_FILTER" value="settings repos" />
   </component>
 </application>
