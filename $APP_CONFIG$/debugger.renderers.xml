@@ -21,7 +21,7 @@
       <option name="SHOW_VAL_FIELDS_AS_LOCAL_VARIABLES" value="true" />
       <option name="SHOW_STATIC" value="false" />
       <option name="SHOW_STATIC_FINAL" value="false" />
-      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+      <option name="SHOW_FQ_TYPE_NAMES" value="false" />
       <option name="SHOW_DECLARED_TYPE" value="false" />
       <option name="SHOW_OBJECT_ID" value="true" />
     </Renderer>

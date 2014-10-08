@@ -1,0 +1,578 @@
+<application>
+  <component name="DimensionService">
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="118" y="125" />
+    <location key="DiffWindow.0.0.2560.1440" x="238" y="22" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.2560.1440" x="1059" y="652" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.2560.1440" x="1128" y="658" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1093" y="440" />
+    <location key="OptionsEditor.0.0.2560.1440" x="96" y="212" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="300" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="300" y="111" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="400" y="620" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="634" y="481" />
+    <location key="MultipleFileMergeDialog.0.0.2560.1440" x="260" y="139" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.2560.1440" x="352" y="303" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="800" y="300" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" x="100" y="122" />
+    <location key="WELCOME_SCREEN.0.0.1344.756" x="672" y="300" />
+    <location key="RollbackChangesDialog.0.0.1344.756" x="459" y="122" />
+    <location key="extract.method.dialog.0.0.1344.756" x="410" y="176" />
+    <location key="IdeErrosDialog.0.0.1344.756" x="283" y="200" />
+    <location key="ProcessPopupWindow.0.0.1344.756" x="345" y="94" />
+    <location key="vcs.ApplyPatchDifferentiatedDialog.0.0.2560.1440" x="996" y="339" />
+    <location key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.2560.1440" x="709" y="399" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.2560.1440" x="644" y="330" />
+    <location key="#Project_Structure.0.0.2560.1440" x="579" y="228" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="237" y="453" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="447" y="214" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="748" y="268" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="780" y="440" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.1920.1080" x="733" y="347" />
+    <location key="git4idea.ui.GitTagDialog.0.0.1920.1080" x="760" y="404" />
+    <location key="IdeErrosDialog.0.0.1920.1080" x="493" y="355" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1080" x="720" y="276" />
+    <location key="vcs.ApplyPatchDifferentiatedDialog.0.0.1920.1080" x="727" y="137" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="698" y="311" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="424" y="211" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" x="80" y="35" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.2560.1440" x="901" y="565" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.2560.1440" x="1118" y="361" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080" x="773" y="260" />
+    <location key="#com.intellij.debugger.actions.ViewTextAction.0.0.2560.1440" x="1118" y="591" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.2560.1440" x="989" y="514" />
+    <location key="DirDiffDialog.0.0.2560.1440" x="523" y="51" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.2560.1440" x="1042" y="456" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog.0.0.1920.1080" x="714" y="433" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.1920.1080" x="634" y="219" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.2560.1440" x="1071" y="569" />
+    <location key="replaceTextDialog.0.0.2560.1440" x="779" y="534" />
+    <location key="Github.CreateGistDialog.0.0.2560.1440" x="1100" y="625" />
+    <location key="#SourcemapVisualizationServer.0.0.2560.1440" x="900" y="405" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog.0.0.2560.1440" x="1154" y="628" />
+    <location key="#MxmlTest.0.0.2560.1440" x="972" y="433" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.2560.1440" x="993" y="489" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.2560.1440" x="1018" y="484" />
+    <location key="#Inspections.0.0.2560.1440" x="934" y="789" />
+    <location key="dock-window-3.0.0.2560.1440" x="8" y="254" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.2560.1440" x="804" y="619" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2560.1440" x="791" y="423" />
+    <location key="#DebuggerTreeTest.0.0.2560.1440" x="972" y="433" />
+    <location key="#FxgToSwf.0.0.2560.1440" x="1011" y="422" />
+    <location key="GridCell.Tab.-1.center.0.0.2560.1440" x="419" y="1005" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.0.0.2560.1440" x="1042" y="377" />
+    <location key="DiffWindow.0.0.1600.900" x="0" y="122" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2560.1440" x="751" y="546" />
+    <location key="#org.jetbrains.kotlin.js.stubGenerator.StubGeneratorPackage.0.0.2560.1440" x="1011" y="481" />
+    <location key="GridCell.Tab.4.left.0.0.2560.1440" x="1208" y="352" />
+    <location key="svn.repositoryBrowser.0.0.2560.1440" x="772" y="466" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="751" y="284" />
+    <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1920.1080" x="680" y="470" />
+    <location key="#ClassGenerator.0.0.2560.1440" x="995" y="422" />
+    <location key="findTextDialog.0.0.1600.900" x="594" y="221" />
+    <location key="DetectedRootsChooserDialog.0.0.2560.1440" x="1171" y="451" />
+    <location key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.2560.1440" x="1018" y="483" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.2560.1440" x="1202" y="651" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog.0.0.2560.1440" x="992" y="424" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.2560.1440" x="1018" y="529" />
+    <location key="GridCell.Tab.-1.left.0.0.2560.1440" x="419" y="1005" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" x="100" y="122" />
+    <location key="git4idea.merge.GitPullDialog.0.0.2560.1440" x="721" y="478" />
+    <location key="GridCell.Tab.4.right.0.0.2560.1440" x="1208" y="352" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.1920.1080" x="721" y="400" />
+    <location key="#Inspections.0.0.1920.1080" x="531" y="236" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080" x="787" y="286" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.2560.1440" x="968" y="491" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.ResetPasswordDialog.0.0.2560.1440" x="815" y="438" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.2560.1440" x="785" y="584" />
+    <location key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog.0.0.2560.1440" x="918" y="479" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.tree.BreakpointMasterDetailPopupBuilder.0.0.2560.1440" x="652" y="493" />
+    <location key="#Project_Structure.0.0.1920.1080" x="425" y="127" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="760" y="434" />
+    <location key="#com.intellij.diagnostic.AbstractSendErrorDialog.0.0.1920.1080" x="883" y="463" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="698" y="304" />
+    <location key="GridCell.Tab.4.bottom.0.0.2560.1440" x="1208" y="352" />
+    <location key="git4idea.ui.GitResetDialog.0.0.2560.1440" x="1044" y="634" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1003" y="536" />
+    <location key="#com.intellij.ide.util.TreeFileChooserDialog.0.0.2560.1440" x="1018" y="528" />
+    <location key="GridCell.Tab.3.center.0.0.2560.1440" x="167" y="971" />
+    <location key="#UrlsTest.0.0.2560.1440" x="972" y="416" />
+    <location key="extract.method.dialog.0.0.1920.1080" x="698" y="338" />
+    <location key="GridCell.Tab.-1.bottom.0.0.2560.1440" x="419" y="1005" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="722" y="177" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog.0.0.1920.1080" x="672" y="244" />
+    <location key="#com.intellij.uiDesigner.palette.ComponentItemDialog.0.0.2560.1440" x="1061" y="514" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.1920.1080" x="722" y="276" />
+    <location key="Git.Log.Tree.Goto.0.0.2560.1440" x="1730" y="936" />
+    <location key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog.0.0.2560.1440" x="1094" y="587" />
+    <location key="ReplaceDuplicatesPrompt.0.0.2560.1440" x="933" y="654" />
+    <location key="IgnoreUnversionedDialog.0.0.2560.1440" x="1095" y="644" />
+    <location key="scopes.0.0.2560.1440" x="620" y="524" />
+    <location key="#JsDebugConfigurationConverterTest.0.0.2560.1440" x="945" y="433" />
+    <location key="#_properties_=_{java.util.Arrays$ArrayList@23026}_size_=_508.0.0.2560.1440" x="1094" y="661" />
+    <location key="git4idea.history.wholeTree.VcsStructureChooser.0.0.2560.1440" x="1139" y="422" />
+    <location key="svn4idea.checkout.options.0.0.2560.1440" x="1010" y="599" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="503" y="187" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="573" y="297" />
+    <location key="RefactorJ.ExtractClass.0.0.2560.1440" x="737" y="466" />
+    <location key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.2560.1440" x="100" y="122" />
+    <location key="#Configure_Path_Variables.0.0.2560.1440" x="1042" y="434" />
+    <location key="#LiveEditTestSuite.0.0.2560.1440" x="972" y="433" />
+    <location key="GridCell.Tab.4.center.0.0.2560.1440" x="1208" y="352" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" x="100" y="122" />
+    <location key="#PredefinedJSFilesGenerator.0.0.1920.1080" x="631" y="242" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2560.1440" x="570" y="372" />
+    <location key="UIDesigner.ListEditorDialog.0.0.2560.1440" x="1148" y="531" />
+    <location key="dock-window-2.0.0.2560.1440" x="1208" y="352" />
+    <location key="svn.upgradeDialog.0.0.2560.1440" x="1074" y="646" />
+    <location key="dock-window-1.0.0.2560.1440" x="799" y="442" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1920.1080" x="262" y="581" />
+    <location key="#Custom_Plugin_Repositories.0.0.2560.1440" x="1321" y="562" />
+    <location key="#Dependency_Validation.0.0.2560.1440" x="1117" y="482" />
+    <location key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff.0.0.2560.1440" x="1147" y="620" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080" x="775" y="478" />
+    <location key="VCS.FileHistoryDialog.0.0.2560.1440" x="813" y="212" />
+    <location key="#Intentions.0.0.2560.1440" x="868" y="391" />
+    <location key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog.0.0.2560.1440" x="708" y="591" />
+    <location key="git4idea.ui.GitStashDialog.0.0.2560.1440" x="1018" y="637" />
+    <location key="GridCell.Tab.3.bottom.0.0.2560.1440" x="167" y="971" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.2560.1440" x="988" y="475" />
+    <location key="GitCloneDialog.0.0.2560.1440" x="828" y="374" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.2560.1440" x="528" y="311" />
+    <location key="#Chrome_Settings.0.0.2560.1440" x="1110" y="567" />
+    <location key="GridCell.Tab.3.right.0.0.2560.1440" x="167" y="971" />
+    <location key="GridCell.Tab.-1.right.0.0.2560.1440" x="419" y="1005" />
+    <location key="#JavaEETemplatesTest.0.0.2560.1440" x="972" y="433" />
+    <location key="GridCell.Tab.3.left.0.0.2560.1440" x="167" y="971" />
+    <location key="CommitChangelistDialog.0.0.2560.1440" x="446" y="575" />
+    <location key="ReplaceDuplicatesPrompt.0.0.1920.1080" x="613" y="474" />
+    <location key="#buildFirefoxExtension.0.0.1920.1080" x="506" y="273" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.2560.1440" x="877" y="418" />
+    <location key="#Auto_Import.0.0.2560.1440" x="769" y="279" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.KeyChooserDialog.0.0.2560.1440" x="1035" y="482" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog.0.0.2560.1440" x="1034" y="613" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.2560.1440" x="920" y="449" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="640" y="430" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.2560.1440" x="880" y="629" />
+    <location key="#Console_Folding.0.0.2560.1440" x="907" y="489" />
+    <location key="NewModule_or_Project.wizard.0.0.2560.1440" x="564" y="394" />
+    <location key="git4idea.merge.GitMergeDialog.0.0.2560.1440" x="654" y="421" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="710" y="447" />
+    <location key="VCS.ChangelistChooser.0.0.1920.1080" x="791" y="255" />
+    <location key="StructurePopup.0.0.1920.1080" x="756" y="318" />
+    <location key="OptionsEditor.0.0.1920.1080" x="348" y="127" />
+    <location key="findTextDialog.0.0.1920.1080" x="696" y="339" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="527" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="445" y="295" />
+    <location key="DiffWindow.0.0.1920.1080" x="100" y="122" />
+    <location key="git4idea.push.GitPushDialog.0.0.1920.1080" x="351" y="177" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog.0.0.2560.1440" x="954" y="399" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="728" y="411" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.2560.1440" x="1247" y="466" />
+    <location key="findTextDialog.0.0.1344.756" x="466" y="140" />
+    <location key="MultipleFileMergeDialog.0.0.1344.756" x="0" y="125" />
+    <location key="DiffWindow.0.0.1344.756" x="24" y="32" />
+    <location key="CommitChangelistDialog2.0.0.1344.756" x="0" y="91" />
+    <location key="git4idea.push.GitPushDialog.0.0.1344.756" x="254" y="103" />
+    <location key="chooseDestDirectoryDialog.0.0.2560.1440" x="1075" y="518" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" x="517" y="538" />
+    <location key="EditParametersPopupWindow.0.0.2560.1440" x="729" y="264" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="547" y="255" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1600.900" x="702" y="315" />
+    <location key="CommitChangelistDialog2.0.0.1600.900" x="440" y="163" />
+    <location key="git4idea.push.GitPushDialog.0.0.1600.900" x="442" y="183" />
+    <location key="RollbackChangesDialog.0.0.2560.1440" x="964" y="480" />
+    <location key="OptionsEditor.0.0.1440.900" x="108" y="37" />
+    <location key="VCS.EditChangelistDialog.0.0.2560.1440" x="1118" y="606" />
+    <location key="VCS.ChangelistChooser.0.0.2560.1440" x="1103" y="572" />
+    <location key="VCS.ChangeListViewerDialog.0.0.2560.1440" x="519" y="588" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="449" y="444" />
+    <location key="extract.method.dialog.0.0.2560.1440" x="1030" y="579" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.2560.1440" x="918" y="750" />
+    <location key="findTextDialog.0.0.2560.1440" x="452" y="263" />
+    <location key="IdeErrosDialog.0.0.2560.1440" x="0" y="379" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2560.1440" x="729" y="279" />
+    <location key="StructurePopup.0.0.2560.1440" x="1076" y="498" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="395" y="67" />
+    <location key="git4idea.push.GitPushDialog.0.0.2560.1440" x="282" y="494" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2560.1440" x="1017" y="527" />
+    <location key="MultipleFileMergeDialog.0.0.1600.900" x="492" y="197" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="584" y="426" />
+    <location key="RollbackChangesDialog.0.0.1600.900" x="587" y="194" />
+    <location key="#Firefox_Settings.0.0.2560.1440" x="1014" y="617" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="785" y="215" />
+    <location key="new project wizard.0.0.2560.1440" x="579" y="430" />
+    <location key="StructurePopup.0.0.1600.900" x="596" y="186" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1600.900" x="612" y="186" />
+    <location key="OptionsEditor.0.0.1600.900" x="148" y="37" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1600.900" x="571" y="344" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1600.900" x="367" y="295" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1600.900" x="613" y="184" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1344.756" x="483" y="272" />
+    <location key="OptionsEditor.0.0.1344.756" x="0" y="22" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1344.756" x="275" y="223" />
+    <location key="StructurePopup.0.0.1344.756" x="468" y="156" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1344.756" x="262" y="234" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1344.756" x="422" y="114" />
+    <location key="#phpstorm_build.0.0.2560.1440" x="941" y="540" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1344.756" x="136" y="49" />
+    <location key="#HtmlEmmetAbbreviationTest.0.0.1344.756" x="340" y="133" />
+    <location key="#Project_Structure.0.0.1344.756" x="0" y="22" />
+    <location key="VCS.EditChangelistDialog.0.0.1344.756" x="311" y="315" />
+    <location key="#Browse_Repositories.0.0.1344.756" x="260" y="49" />
+    <location key="#Groovy_Compiler.0.0.2560.1440" x="1108" y="573" />
+    <location key="FileChooserDialogImpl.0.0.1344.756" x="137" y="127" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1344.756" x="510" y="125" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.2560.1440" x="757" y="443" />
+    <location key="#com.intellij.ide.macro.MacrosDialog.0.0.2560.1440" x="887" y="396" />
+    <location key="#com.intellij.tools.FilterDialog.0.0.2560.1440" x="920" y="565" />
+    <location key="#com.intellij.tools.OutputFiltersDialog.0.0.2560.1440" x="958" y="570" />
+    <location key="EditParametersPopupWindow.0.0.1344.756" x="358" y="268" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1344.756" x="460" y="106" />
+    <location key="#Customize_Data_Views.0.0.2560.1440" x="924" y="396" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2560.1440" x="1008" y="481" />
+    <location key="#HttpVirtualFileTest.0.0.2560.1440" x="972" y="475" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.2560.1440" x="1171" y="490" />
+    <location key="#Node.js_and_NPM.0.0.2560.1440" x="1017" y="517" />
+    <location key="#Usage_Scope.0.0.2560.1440" x="879" y="531" />
+    <location key="HgCloneDialog.0.0.2560.1440" x="1060" y="644" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1344.756" x="422" y="285" />
+    <location key="#xdebugger.evaluate.0.0.2560.1440" x="996" y="478" />
+    <location key="DiffWindow.0.0.1280.720" x="100" y="122" />
+    <location key="WELCOME_SCREEN.0.0.1600.1200" x="800" y="300" />
+    <location key="DiffWindow.0.0.1600.1200" x="348" y="137" />
+    <location key="CommitChangelistDialog2.0.0.1600.1200" x="656" y="323" />
+    <location key="git4idea.push.GitPushDialog.0.0.1600.1200" x="240" y="235" />
+    <location key="StructurePopup.0.0.1600.1200" x="596" y="378" />
+    <location key="MultipleFileMergeDialog.0.0.1600.1200" x="512" y="354" />
+    <location key="ProcessPopupWindow.0.0.1600.1200" x="1195" y="962" />
+    <location key="RollbackChangesDialog.0.0.1600.1200" x="587" y="324" />
+    <location key="findTextDialog.0.0.1600.1200" x="594" y="350" />
+    <location key="#xdebugger.XInspectDialog.0.0.2560.1440" x="1170" y="504" />
+    <location key="#org.jetbrains.jet.plugin.refactoring.safeDelete.KotlinOverridingDialog.0.0.2560.1440" x="1042" y="455" />
+    <location key="#GitTest.0.0.2560.1440" x="911" y="416" />
+    <location key="OptionsEditor.0.0.1600.1200" x="200" y="191" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveKotlinTopLevelDeclarationsDialog.classes.0.0.2560.1440" x="1044" y="603" />
+    <location key="com.intellij.dvcs.push.ui.VcsPushDialog.0.0.2560.1440" x="869" y="455" />
+    <location key="Vcs.Push.Dialog.0.0.2560.1440" x="883" y="455" />
+    <location key="FileChooserDialogImpl.0.0.1600.1200" x="793" y="358" />
+    <location key="#AllSqlCompletionTest.0.0.2560.1440" x="972" y="416" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2518" height="419" />
+    <size key="DiffWindow.0.0.2560.1440" width="1328" height="1086" />
+    <size key="OptionsEditor.0.0.2560.1440" width="1969" height="888" />
+    <size key="ProcessPopupWindow.0.0.2560.1440" width="1338" height="154" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="684" height="126" />
+    <size key="refactoring.ChangeSignatureDialog.0.0.2560.1440" width="663" height="744" />
+    <size key="MultipleFileMergeDialog.0.0.2560.1440" width="1687" height="606" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.2560.1440" width="1557" height="665" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.2560.1440" width="2360" height="1214" />
+    <size key="ProcessPopupWindow.0.0.1344.756" width="775" height="136" />
+    <size key="vcs.ApplyPatchDifferentiatedDialog.0.0.2560.1440" width="791" height="780" />
+    <size key="com.intellij.openapi.vcs.changes.UnversionedViewDialog.0.0.2560.1440" width="792" height="457" />
+    <size key="javadoc.popup.0.0.2560.1440" width="692" height="272" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="1170" height="575" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="803" height="154" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="1685" height="911" />
+    <size key="IdeErrosDialog.0.0.1920.1080" width="1427" height="504" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.2560.1440" width="2360" height="1214" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog.0.0.2560.1440" width="624" height="424" />
+    <size key="DirDiffDialog.0.0.2560.1440" width="1241" height="1157" />
+    <size key="Git.Log.Tree.Goto.0.0.2560.1440" width="374" height="63" />
+    <size key="dock-window-3.0.0.2560.1440" width="2514" height="519" />
+    <size key="changelist.details.popup.0.0.2560.1440" width="394" height="100" />
+    <size key="GridCell.Tab.-1.center.0.0.2560.1440" width="2514" height="502" />
+    <size key="DiffWindow.0.0.1600.900" width="1600" height="674" />
+    <size key="GridCell.Tab.4.left.0.0.2560.1440" width="2518" height="392" />
+    <size key="scopes.0.0.2560.1440" width="1490" height="746" />
+    <size key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog.0.0.2560.1440" width="2360" height="1214" />
+    <size key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.2560.1440" width="421" height="367" />
+    <size key="GridCell.Tab.4.center.0.0.2560.1440" width="2518" height="392" />
+    <size key="GridCell.Tab.-1.left.0.0.2560.1440" width="2514" height="502" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1920.1080" width="1720" height="854" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1920.1080" width="1720" height="854" />
+    <size key="dock-window-2.0.0.2560.1440" width="733" height="456" />
+    <size key="GridCell.Tab.4.right.0.0.2560.1440" width="2518" height="392" />
+    <size key="dock-window-1.0.0.2560.1440" width="514" height="456" />
+    <size key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.1920.1080" width="781" height="440" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.tree.BreakpointMasterDetailPopupBuilder.0.0.2560.1440" width="1257" height="700" />
+    <size key="GitCloneDialog.0.0.2560.1440" width="770" height="170" />
+    <size key="GridCell.Tab.4.bottom.0.0.2560.1440" width="2518" height="392" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.2560.1440" width="300" height="300" />
+    <size key="javadoc.popup.0.0.1920.1080" width="500" height="289" />
+    <size key="GridCell.Tab.-1.right.0.0.2560.1440" width="2514" height="502" />
+    <size key="CommitChangelistDialog.0.0.2560.1440" width="1140" height="637" />
+    <size key="GridCell.Tab.-1.bottom.0.0.2560.1440" width="2514" height="502" />
+    <size key="NewModule_or_Project.wizard.0.0.2560.1440" width="922" height="685" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1874" height="518" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1874" height="518" />
+    <size key="StructurePopup.0.0.1920.1080" width="426" height="440" />
+    <size key="MultipleFileMergeDialog.0.0.1920.1080" width="823" height="508" />
+    <size key="DiffWindow.0.0.1920.1080" width="1720" height="854" />
+    <size key="#Project_Structure.0.0.2560.1440" width="1306" height="843" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.2560.1440" width="587" height="524" />
+    <size key="GridCell.Tab.0.left.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.0.center.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.0.right.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.0.bottom.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.1.left.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.1.center.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.1.right.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.1.bottom.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.2.left.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.2.center.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.2.right.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.2.bottom.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.3.left.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.3.center.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.3.right.0.0.1344.756" width="2518" height="398" />
+    <size key="GridCell.Tab.3.bottom.0.0.1344.756" width="2518" height="398" />
+    <size key="DiffWindow.0.0.1344.756" width="1242" height="617" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" width="1011" height="252" />
+    <size key="EditParametersPopupWindow.0.0.2560.1440" width="853" height="565" />
+    <size key="RollbackChangesDialog.0.0.2560.1440" width="434" height="528" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2518" height="419" />
+    <size key="VCS.ChangeListViewerDialog.0.0.2560.1440" width="828" height="561" />
+    <size key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.2560.1440" width="791" height="519" />
+    <size key="findTextDialog.0.0.2560.1440" width="1134" height="537" />
+    <size key="IdeErrosDialog.0.0.2560.1440" width="2560" height="699" />
+    <size key="StructurePopup.0.0.2560.1440" width="824" height="430" />
+    <size key="DebuggerActiveHint.0.0.2560.1440" width="2197" height="1141" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="1515" height="1065" />
+    <size key="git4idea.push.GitPushDialog.0.0.2560.1440" width="1293" height="561" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1354" height="742" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2518" height="419" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2518" height="419" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="400" height="172" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.1.left.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.1.center.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.1.right.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.1.bottom.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.2.left.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.2.center.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.2.right.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.2.bottom.0.0.1600.900" width="2518" height="488" />
+    <size key="GridCell.Tab.3.left.0.0.1600.900" width="2518" height="329" />
+    <size key="GridCell.Tab.3.center.0.0.1600.900" width="2518" height="329" />
+    <size key="GridCell.Tab.3.right.0.0.1600.900" width="2518" height="329" />
+    <size key="GridCell.Tab.3.bottom.0.0.1600.900" width="2518" height="329" />
+    <size key="StructurePopup.0.0.1600.900" width="426" height="440" />
+    <size key="OptionsEditor.0.0.1344.756" width="1344" height="730" />
+    <size key="StructurePopup.0.0.1344.756" width="426" height="440" />
+    <size key="#Project_Structure.0.0.1344.756" width="1048" height="730" />
+    <size key="new project wizard.0.0.2560.1440" width="882" height="570" />
+    <size key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.2560.1440" width="625" height="478" />
+    <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="1280" height="707" />
+    <size key="DebuggerActiveHint.0.0.1344.756" width="446" height="429" />
+    <size key="DiffWindow.0.0.1280.720" width="1080" height="494" />
+    <size key="GridCell.Tab.0.left.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.0.center.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.0.right.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.1200" width="2518" height="467" />
+    <size key="git4idea.ui.GitUnstashDialog.0.0.2560.1440" width="1126" height="319" />
+    <size key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" width="1229" height="577" />
+    <size key="GridCell.Tab.2.left.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.2.center.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.2.right.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.2.bottom.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.1.left.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.1.center.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.1.right.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.1.bottom.0.0.1600.1200" width="2518" height="467" />
+    <size key="StructurePopup.0.0.1600.1200" width="408" height="440" />
+    <size key="DebuggerActiveHint.0.0.1600.1200" width="471" height="429" />
+    <size key="ProcessPopupWindow.0.0.1600.1200" width="199" height="172" />
+    <size key="GridCell.Tab.3.left.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.3.center.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.3.right.0.0.1600.1200" width="2518" height="467" />
+    <size key="GridCell.Tab.3.bottom.0.0.1600.1200" width="2518" height="467" />
+    <size key="DiffWindow.0.0.1600.1200" width="958" height="741" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.2560.1440" width="1071" height="512" />
+    <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.1" state="500" />
+    <extendedState key="dock-window-2" state="0" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.4" state="500" />
+    <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.3" state="500" />
+    <extendedState key="com.intellij.sisyphus.ui.issues.IssuesForm.1" state="250" />
+    <extendedState key="DirDiffDialog" state="0" />
+    <extendedState key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" state="0" />
+    <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.2" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.0" state="541" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.sisyphus.ui.issues.IssuesForm.0" state="487" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+    <extendedState key="CommittedChanges.SplitterProportions.1" state="500" />
+    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="com.intellij.sisyphus.ui.issues.IssuesForm.2" state="500" />
+    <extendedState key="com.intellij.sisyphus.ui.analyzer.AnalyzerForm.0" state="500" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="junit_statistics_table_columnsWidth5" value="75" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="ExceptionAnalyzer.defaultBranch" value="IDEA_Trunk_Installers" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="project.jdk.splitter" value="0.20000002" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="junit_statistics_table_columnsWidth4" value="75" />
+    <property name="junit_statistics_table_columnsWidth3" value="75" />
+    <property name="junit_statistics_table_columnsWidth2" value="75" />
+    <property name="junit_statistics_table_columnsWidth1" value="75" />
+    <property name="junit_statistics_table_columnsWidth0" value="75" />
+    <property name="evlsprt3.IU-130.535" value="19" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="AnnotationType" />
+    <property name="null.splitter" value="0.3" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_" value="0.8" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="filter_non_existing" value="false" />
+    <property name="installation.uid" value="59a1d7a4-bd32-454e-b5ef-d3b174686796" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="export.settings.path" value="$USER_HOME$/settings.jar" />
+    <property name="evlsprt3.IU-130.1603" value="19" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="evlsprt3.IU-130.837" value="10" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="true" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.tree.BreakpointMasterDetailPopupBuilder.splitter" value="0.3" />
+    <property name="Tests" value="Green" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Library/Caches/IJ/system/settingsRepository/repository&#10;/Users/develar/Dropbox/save.patch&#10;/Users/develar/Documents/idea/community/build/kotlinc/lib/kotlin-runtime.jar&#10;/Users/develar/Documents/idea/settings-repository/lib/osxkeychain.so&#10;/Users/develar/Library/Caches/WS/system/log/idea.log&#10;/Users/develar/Library/Caches/IJ-test/system/testlog/idea.log&#10;/Users/develar/Documents/idea/settings-repository/lib&#10;/Users/develar/Dropbox&#10;/Users/develar/Documents/idea/flex/tools/flex-ui-designer&#10;/Users/develar/Documents/idea/flex/tools/flex-ui-designer/flex-injection&#10;/Volumes/ramdisk/IJ-test/system/testlog/idea.log&#10;/Users/develar/jcef/src/java/org&#10;/Users/develar/jcef/src/java&#10;/Users/develar/Documents/idea/community/platform/script-debugger&#10;/Users/develar/Documents/idea/plugins/JavaScriptDebugger&#10;/Users/develar/Documents/idea/idea-configuration-server/lib/org.eclipse.jgit-3.3.1.201403241930-r.jar&#10;/Users/develar/Documents/idea/idea-configuration-server/lib&#10;/Users/develar/Documents/idea/plugins/JavaScriptDebugger/nashorn/debugger-support&#10;/Users/develar/Downloads/netbeans-trunk-nightly-201403060001-src&#10;/Users/develar/openjdk8&#10;/Users/develar/nashornexamples/askari&#10;/Users/develar/Library/Caches/WS7/system/log/idea.log&#10;/Users/develar/blink/Source/devtools&#10;/Users/develar/Documents/idea/plugins/JavaScriptDebugger/source/org/jetbrains/io/fastCgi&#10;/Volumes/ramdisk/Caches/PS7/system/log/idea.log&#10;/Users/develar/node&#10;/Users/develar/e&#10;/Volumes/ramdisk/Caches/WS7/system/log/idea.log&#10;/Users/develar/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/src/META-INF/plugin.xml&#10;/Users/develar/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/lib/swf-utils.jar" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="LOG_FILTER_HISTORY" value="my.test.js&#10;process is not defined&#10;childNodeRemoved&#10;sfsadfsdf&#10;AAA" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7128514" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="debugger.mark.all.referenced.values" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="fud_abcFilterVersion" value="39" />
+    <property name="PLUGIN_FILTER" value="kotlin&#10;ko&#10;liveedit&#10;live&#10;cruc" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="introduce.variable.prefer.statements" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="class com.intellij.lang.properties.editor.ResourceBundleEditor.splitter" value="0.5" />
+    <property name="evlsprt3.IU-130.455" value="18" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="evlsprt3.IU-130.643" value="10" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="eclipse.project.dir" value="$USER_HOME$/Documents/flex-sdk" />
+    <property name="last.selected.flex.sdk.home" value="$USER_HOME$/flex" />
+    <property name="evlsprt3.IU-132.SNAPSHOT" value="17" />
+    <property name="evlsprt3.IU-130.SNAPSHOT" value="11" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="test_tree_console_proprtion" value="0.2" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="dir.diff.panel.divider.location" value="451" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="last.imported.location" value="$USER_HOME$/jcef/src/java" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1.0" />
+    <property name="ColorChooser.RecentColors" value="93-143-255-255,,,162-255-18-255,,,238-102-159-255,,,143-0-238-255,,,63-238-110-255,,,179-116-255-255,,,40-255-202-255,,,203-0-255-255,,,255-222-0-255,,,34-255-221-255" />
+    <property name="evlsprt3.IU-132.599" value="17" />
+    <property name="evlsprt3.IU-132.659" value="12" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="evlsprt3.IU-132.844" value="14" />
+    <property name="evlsprt.IU-132.SNAPSHOT" value="142c8de9660" />
+    <property name="evlsprt2.IU-132.SNAPSHOT" value="142716302e3" />
+    <property name="evlsprt3.IU-134.SNAPSHOT" value="14" />
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt.IU-134.SNAPSHOT" value="143ddcf31a0" />
+    <property name="evlsprt2.IU-134.SNAPSHOT" value="14396043f44" />
+    <property name="evlsprt3.IU-134.710" value="11" />
+    <property name="INSPECTION_FILTER_HISTORY" value="unused&#10;maybe static&#10;throw&#10;final&#10;javascript&#10;unresolved&#10;typesc&#10;&quot;New in 13&quot;" />
+    <property name="KEYMAP" value="toggle" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="evlsprt3.IU-136.SNAPSHOT" value="10" />
+    <property name="evlsprt3.IU-136.1340" value="17" />
+    <property name="Vcs.Log.Text.Filter.History" value="4ae2498&#10;497855a&#10;a8f1063&#10;touch file to recompile&#10;5972053" />
+    <property name="dir.diff.space.button.info" value="2" />
+    <property name="evlsprt3.IU-138.29" value="11" />
+    <property name="evlsprt3.IU-138.SNAPSHOT" value="13" />
+    <property name="installed.kotlin.plugin.version" value="0.8.1559" />
+    <property name="evlsprt3.IU-138.182" value="10" />
+    <property name="ignore.unsupported.jvm.ea.message" value="true" />
+    <property name="SourceMapInspector.splitter" value="0.5" />
+    <property name="nodejs_interpreter_version" value="0.10.28" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="evlsprt3.IU-138.441" value="16" />
+    <property name="last.used.gradle.home" value="/usr/local/opt/gradle/libexec" />
+    <property name="evlsprt3.IU-138.480" value="15" />
+    <property name="evlsprt3.IU-138.526" value="15" />
+    <property name="evlsprt3.IU-138.816" value="17" />
+    <property name="evlsprt3.IU-138.777" value="12" />
+    <property name="evlsprt3.IU-138.763" value="12" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="evlsprt3.IU-138.912" value="11" />
+    <property name="evlsprt3.IU-138.951" value="17" />
+    <property name="BytecodeAnalysisConverter.Enumerators" value="1" />
+    <property name="UNSCRAMBLE_LOG_FILE_URL" value="" />
+    <property name="create.member.preselect.anonymous" value="false" />
+    <property name="CodeReview.CommitsCommentsSplitter.Proportion" value="0.5" />
+    <property name="CodeReview.GeneralComments.Visible" value="true" />
+    <property name="evlsprt3.IU-138.2259" value="18" />
+    <property name="evlsprt3.IU-138.2620" value="19" />
+    <property name="run.configuration.edit.ad" value="true" />
+  </component>
+</application>
