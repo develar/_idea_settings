@@ -10,7 +10,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="evlsprt3.IU-140.SNAPSHOT" value="19" />
-    <property name="installed.kotlin.plugin.version" value="0.8.1615" />
+    <property name="installed.kotlin.plugin.version" value="0.8.1672" />
     <property name="installation.uid" value="395625fe-be09-41d6-918a-67cc9d108dbf" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
@@ -25,7 +25,7 @@
     <property name="introduce.variable.prefer.statements" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="test_tree_console_proprtion" value="0.2" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
     <property name="UNSCRAMBLE_LOG_FILE_URL" value="" />
     <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="" />
     <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
