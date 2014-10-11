@@ -50,5 +50,6 @@
     <property name="junit_statistics_table_columnsWidth5" value="75" />
     <property name="junit_statistics_table_columnsOrder5" value="5" />
     <property name="ExceptionAnalyzer.defaultBranch" value="IDEA_Trunk_Installers" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="false" />
   </component>
 </application>
