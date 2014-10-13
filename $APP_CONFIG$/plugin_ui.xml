@@ -1,8 +1,10 @@
 <application>
   <component name="PluginManagerConfigurable">
     <option name="AVAILABLE_SORT_MODE" value="0" />
-    <option name="myOutdatedPlugins">
-      <JDOMExternalizableStringList />
-    </option>
+    <available-proportions>
+      <option name="proportions">
+        <list />
+      </option>
+    </available-proportions>
   </component>
 </application>
