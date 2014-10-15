@@ -16,7 +16,7 @@
     <property name="file.colors.enable.tests" value="Green" />
     <property name="Non-Project Files" value="Yellow" />
     <property name="Tests" value="Green" />
-    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6638478" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
     <property name="FileStructurePopup.narrowDown" value="true" />
     <property name="ProjectStructure.SecondLevelElements" value="0.25700933" />
