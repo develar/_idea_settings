@@ -48,7 +48,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="options.lastSelected" value="configurable.group.editor" />
+        <property name="options.lastSelected" value="preferences.pluginManager" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
       </component>
