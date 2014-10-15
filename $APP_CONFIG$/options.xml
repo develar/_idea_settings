@@ -10,7 +10,7 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="evlsprt3.IU-140.SNAPSHOT" value="19" />
-    <property name="installed.kotlin.plugin.version" value="0.9.21" />
+    <property name="installed.kotlin.plugin.version" value="0.9.66" />
     <property name="installation.uid" value="395625fe-be09-41d6-918a-67cc9d108dbf" />
     <property name="file.colors.enable.non.project" value="Yellow" />
     <property name="file.colors.enable.tests" value="Green" />
