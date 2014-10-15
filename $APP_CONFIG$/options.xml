@@ -25,7 +25,7 @@
     <property name="introduce.variable.prefer.statements" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="test_tree_console_proprtion" value="0.2" />
-    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
     <property name="UNSCRAMBLE_LOG_FILE_URL" value="" />
     <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="" />
     <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.3" />
@@ -52,5 +52,7 @@
     <property name="ExceptionAnalyzer.defaultBranch" value="IDEA_Trunk_Installers" />
     <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="false" />
     <property name="evlsprt3.IU-140.122" value="11" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/idea/settings-repository/lib/org.eclipse.jgit-3.5.2-SNAPSHOT.jar" />
   </component>
 </application>
