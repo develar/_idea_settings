@@ -191,8 +191,16 @@
   </component>
   <component name="ExceptionAnalyzerConfigurable" Sisyphus.DeveloperName="Vladimir Krivosheev" Sisyphus.DefaultScope="1" Sisyphus.DefaultTeam="1" Sisyphus.HideMyIssuesHeaders="false" Sisyphus.HideAnalyzerHeaders="false" />
   <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="tapestry:parameter" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="FileEditorProviderManager">
@@ -209,13 +217,13 @@
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
-  <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://$USER_HOME$/Documents/idea/community/platform/platform-resources-en/src/messages/XmlBundle.properties">
-    <entry context="file://$USER_HOME$/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview/MxmlPreviewPanel.java" url="file://$USER_HOME$/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
-    <entry context="file://$USER_HOME$/Documents/idea/community/xml/impl/src/com/intellij/ide/browsers/StartBrowserPanel.java" url="file://$USER_HOME$/Documents/idea/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
-    <entry context="file://$USER_HOME$/Documents/idea/phpstorm/php/src/com/jetbrains/php/builtInWebServer" url="file://$USER_HOME$/Documents/idea/phpstorm/php/resources/messages/PhpBundle.properties" />
-    <entry context="file://$USER_HOME$/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview" url="file://$USER_HOME$/Documents/idea/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
-    <entry context="file://$USER_HOME$/Documents/idea/phpstorm/php/src/com/jetbrains/php/builtInWebServer/PhpCgiService.java" url="file://$USER_HOME$/Documents/idea/phpstorm/php/resources/messages/PhpBundle.properties" />
-    <entry context="file://$USER_HOME$/Documents/idea/community/xml/impl/src/com/intellij/ide/browsers" url="file://$USER_HOME$/Documents/idea/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
+  <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties">
+    <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview/MxmlPreviewPanel.java" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/community/xml/impl/src/com/intellij/ide/browsers/StartBrowserPanel.java" url="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/phpstorm/php/src/com/jetbrains/php/builtInWebServer" url="file://$APPLICATION_HOME_DIR$/phpstorm/php/resources/messages/PhpBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/phpstorm/php/src/com/jetbrains/php/builtInWebServer/PhpCgiService.java" url="file://$APPLICATION_HOME_DIR$/phpstorm/php/resources/messages/PhpBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/community/xml/impl/src/com/intellij/ide/browsers" url="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:jar:///Users/develar/Documents/fxg2swf/lib/fxg-tools.jar!/com/adobe/fxg/FXGException" separator="\u002e" />

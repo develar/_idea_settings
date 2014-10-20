@@ -37,5 +37,6 @@
     <toolWindow group="Analyze thread dump" />
     <toolWindow group="notification.group.id.gradle" />
     <toolWindow group="Grunt Console" />
+    <toolWindow group="Web Deployment: Remote Host" />
   </component>
 </application>
