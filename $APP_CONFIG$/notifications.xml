@@ -34,8 +34,8 @@
     <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Find in Path" />
     <toolWindow group="Vcs Messages" />
-    <toolWindow group="Grunt Console" />
     <toolWindow group="Analyze thread dump" />
     <toolWindow group="notification.group.id.gradle" />
+    <toolWindow group="Grunt Console" />
   </component>
 </application>
