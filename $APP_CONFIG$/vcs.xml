@@ -1,17 +1,12 @@
 <application>
-  <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="/usr/local/bin/git" />
-    <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
-  </component>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/develar/idea-flexmojos-config-generator-test-project.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="develar" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
