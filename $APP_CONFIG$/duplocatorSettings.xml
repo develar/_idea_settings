@@ -7,10 +7,4 @@
     </option>
     <option name="LAST_SELECTED_LANGUAGE" value="XHTML" />
   </component>
-  <component name="MultiLanguageDuplocatorSettings">
-    <object language="XHTML">
-      <option name="LOWER_BOUND" value="5" />
-      <option name="DISTINGUISH_ATTRIBUTE_VALUES" value="false" />
-    </object>
-  </component>
 </application>
