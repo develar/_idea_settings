@@ -3,16 +3,11 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <show-dom-properties>false</show-dom-properties>
         </configuration>
-      </debugger>
-      <debugger id="ruby">
-        <configuration />
       </debugger>
     </debuggers>
   </component>
