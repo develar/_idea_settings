@@ -1,0 +1,19 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views />
+    <general />
+    <debuggers>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="ruby">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+</application>
