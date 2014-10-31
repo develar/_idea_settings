@@ -1,11 +1,8 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
-    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
-          <custom-object-presentation />
           <show-dom-properties>false</show-dom-properties>
         </configuration>
       </debugger>
