@@ -1,14 +1,129 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Cloning issues</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Method metrics</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+    <entry key="Netty project">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
-    <option name="HOTSWAP_IN_BACKGROUND" value="false" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -50,7 +165,35 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="develar" />
+    <option name="ITN_PASSWORD_CRYPT" value="ZGRlODR3ZXI=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="ExceptionAnalyzerConfigurable" Sisyphus.DeveloperName="Vladimir Krivosheev" Sisyphus.DefaultScope="1" Sisyphus.DefaultTeam="1" Sisyphus.HideMyIssuesHeaders="false" Sisyphus.HideAnalyzerHeaders="false" />
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
@@ -64,23 +207,110 @@
     <ignored-resource url="http://exslt.org/common" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,sourcemapFileViewerProvider" value="sourcemapFileViewerProvider" />
+      </map>
+    </option>
+  </component>
+  <component name="GlobalAntConfiguration">
+    <filtersTableLayout />
+    <propertiesTableLayout />
+  </component>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties">
+    <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview/MxmlPreviewPanel.java" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/community/xml/impl/src/com/intellij/ide/browsers/StartBrowserPanel.java" url="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/phpstorm/php/src/com/jetbrains/php/builtInWebServer" url="file://$APPLICATION_HOME_DIR$/phpstorm/php/resources/messages/PhpBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/phpstorm/php/src/com/jetbrains/php/builtInWebServer/PhpCgiService.java" url="file://$APPLICATION_HOME_DIR$/phpstorm/php/resources/messages/PhpBundle.properties" />
+    <entry context="file://$APPLICATION_HOME_DIR$/community/xml/impl/src/com/intellij/ide/browsers" url="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="resourceBundle:jar:///Users/develar/Documents/fxg2swf/lib/fxg-tools.jar!/com/adobe/fxg/FXGException" separator="\u002e" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="ENCAPSULATE_FIELDS_USE_ACCESSORS_WHEN_ACCESSIBLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+  </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
+    <entry key="ide.debugger.inline" value="true" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Static Web/Web" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://fcgi4j.googlecode.com/svn/trunk" />
+        <option value="http://chromedevtools.googlecode.com/svn/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://fcgi4j.googlecode.com/svn/trunk" />
+        <option value="http://chromedevtools.googlecode.com/svn/trunk" />
+      </list>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Compiler (errors)" />
+        <option value="Compiler (success)" />
+        <option value="Find Usages" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://buildserver&amp;^%$#@vladimir.krivosheev@jetbrains.com" />
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="ff" />
       <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="ERROR_STRIPE_COLOR" value="295cff" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="ff" />
       <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="ERROR_STRIPE_COLOR" value="295cff" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>
+  <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="true" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="false" />
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/Dropbox">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dropbox" />
+  </component>
+  <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" ASK_TO_INSTALL_SOAPUI="true" />
   <component name="XDebuggerSettings">
     <data-views />
     <general />
@@ -107,4 +337,15 @@
       </option>
     </recent_templates>
   </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
 </application>
