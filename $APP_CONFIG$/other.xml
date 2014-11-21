@@ -102,7 +102,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Abstraction issues</id>
+            <id>BPMN 2.0 configuration errors</id>
           </State>
         </selected-state>
       </profile-state>
@@ -220,6 +220,25 @@
   </component>
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="InspectionProfileManager">
+    <info color="f7c600">
+      <option name="BACKGROUND" value="f6ebbc" />
+      <option name="ERROR_STRIPE_COLOR" value="f7c600" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="myName" value="3f123f" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="3f123f" />
+    </info>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="TYPO" />
+      <item index="1" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="2" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="3" class="java.lang.String" itemvalue="3f123f" />
+      <item index="4" class="java.lang.String" itemvalue="INFO" />
+      <item index="5" class="java.lang.String" itemvalue="WARNING" />
+      <item index="6" class="java.lang.String" itemvalue="ERROR" />
+    </list>
   </component>
   <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties">
     <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview/MxmlPreviewPanel.java" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="CodeInsightSettings">
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Netty project" />
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
@@ -12,4 +12,3 @@
     <option name="COLLAPSE_CONSTRUCTOR_GENERIC_PARAMETERS" value="false" />
   </component>
 </application>
-
