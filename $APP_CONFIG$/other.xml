@@ -91,6 +91,11 @@
             <id>Threading issuesGroovy</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>ClassWithOnlyPrivateConstructors</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
     <entry key="Netty project">
@@ -103,6 +108,20 @@
         <selected-state>
           <State>
             <id>BPMN 2.0 configuration errors</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="qdqwd">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
           </State>
         </selected-state>
       </profile-state>

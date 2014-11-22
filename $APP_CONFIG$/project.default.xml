@@ -20,7 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="CopyrightManager" default="" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -85,10 +84,10 @@
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
-          <module />
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
           <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
           <method />
         </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">

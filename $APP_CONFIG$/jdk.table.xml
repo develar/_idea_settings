@@ -54,90 +54,57 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Flexmojos SDK 4.5.1.21328" />
-      <type value="Flexmojos SDK Type" />
-      <version value="4.5.1.21328" />
-      <homePath value="$MAVEN_REPOSITORY$/com/adobe/flex/compiler/4.5.1.21328/compiler-4.5.1.21328.pom" />
+      <name value="1.9" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.9.0-ea&quot;" />
+      <homePath value="/Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home" />
       <roots>
         <annotationsPath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/community/java/jdkAnnotations" />
+          </root>
         </annotationsPath>
         <classPath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/ant-javafx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/dt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/javafx-mx.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/jconsole.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/packager.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/sa-jdi.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/lib/tools.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/jre/lib/ext/zipfs.jar!/" />
+          </root>
         </classPath>
         <javadocPath>
           <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/src.zip!/" />
+            <root type="simple" url="jar:///Library/Java/JavaVirtualMachines/jdk1.9.0.jdk/Contents/Home/javafx-src.zip!/" />
+          </root>
         </sourcePath>
       </roots>
-      <additional>
-        <CompilerClassPath>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/adt/4.5.1.21328/adt-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/afe/4.5.1.21328/afe-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/aglj40/4.5.1.21328/aglj40-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/asc/4.5.1.21328/asc-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/asdoc/4.5.1.21328/asdoc-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/baksmali/4.5.1.21328/baksmali-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik-all-flex/4.5.1.21328/batik-all-flex-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_de/4.5.1.21328/batik_de-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_fr/4.5.1.21328/batik_fr-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_ja/4.5.1.21328/batik_ja-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_ko/4.5.1.21328/batik_ko-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_ru/4.5.1.21328/batik_ru-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/batik_zh_CN/4.5.1.21328/batik_zh_CN-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/commons-collections/4.5.1.21328/commons-collections-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/commons-discovery/4.5.1.21328/commons-discovery-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/commons-logging/4.5.1.21328/commons-logging-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/compc/4.5.1.21328/compc-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/copylocale/4.5.1.21328/copylocale-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/digest/4.5.1.21328/digest-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/fcsh/4.5.1.21328/fcsh-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/fdb/4.5.1.21328/fdb-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/flex-compiler-oem/4.5.1.21328/flex-compiler-oem-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/flex-fontkit/4.5.1.21328/flex-fontkit-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/flex-messaging-common/4.5.1.21328/flex-messaging-common-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/fxgutils/4.5.1.21328/fxgutils-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/license/4.5.1.21328/license-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc/4.5.1.21328/mxmlc-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_da/4.5.1.21328/mxmlc_da-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_de/4.5.1.21328/mxmlc_de-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_es/4.5.1.21328/mxmlc_es-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_fi/4.5.1.21328/mxmlc_fi-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_fr/4.5.1.21328/mxmlc_fr-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_it/4.5.1.21328/mxmlc_it-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_ja/4.5.1.21328/mxmlc_ja-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_ko/4.5.1.21328/mxmlc_ko-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_nb/4.5.1.21328/mxmlc_nb-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_nl/4.5.1.21328/mxmlc_nl-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_pt/4.5.1.21328/mxmlc_pt-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_ru/4.5.1.21328/mxmlc_ru-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_sv/4.5.1.21328/mxmlc_sv-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_zh_CN/4.5.1.21328/mxmlc_zh_CN-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/mxmlc_zh_TW/4.5.1.21328/mxmlc_zh_TW-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/optimizer/4.5.1.21328/optimizer-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/rideau/4.5.1.21328/rideau-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/saxon9/4.5.1.21328/saxon9-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/smali/4.5.1.21328/smali-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/swcdepends/4.5.1.21328/swcdepends-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/swfdump/4.5.1.21328/swfdump-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/swfutils/4.5.1.21328/swfutils-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/velocity-dep-1.4-flex/4.5.1.21328/velocity-dep-1.4-flex-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xalan/4.5.1.21328/xalan-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl/4.5.1.21328/xercesImpl-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_de/4.5.1.21328/xercesImpl_de-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_fr/4.5.1.21328/xercesImpl_fr-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_ja/4.5.1.21328/xercesImpl_ja-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_ko/4.5.1.21328/xercesImpl_ko-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_ru/4.5.1.21328/xercesImpl_ru-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesImpl_zh_CN/4.5.1.21328/xercesImpl_zh_CN-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xercesPatch/4.5.1.21328/xercesPatch-4.5.1.21328.jar</ClassPathEntry>
-          <ClassPathEntry>$MAVEN_REPOSITORY$/com/adobe/flex/compiler/xmlParserAPIs/4.5.1.21328/xmlParserAPIs-4.5.1.21328.jar</ClassPathEntry>
-        </CompilerClassPath>
-        <AdlPath />
-        <AirRuntimePath />
-      </additional>
+      <additional />
     </jdk>
   </component>
 </application>
