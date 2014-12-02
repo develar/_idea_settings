@@ -327,15 +327,15 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="ff" />
+      <option name="FOREGROUND" value="347fcf" />
       <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="295cff" />
+      <option name="ERROR_STRIPE_COLOR" value="4c97ff" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="ff" />
+      <option name="FOREGROUND" value="347fcf" />
       <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="295cff" />
+      <option name="ERROR_STRIPE_COLOR" value="4c97ff" />
       <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>

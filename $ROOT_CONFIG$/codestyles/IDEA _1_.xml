@@ -23,6 +23,9 @@
   <option name="STATIC_METHODS_ORDER_WEIGHT" value="5" />
   <option name="METHODS_ORDER_WEIGHT" value="4" />
   <option name="RIGHT_MARGIN" value="200" />
+  <JavaCodeStyleSettings>
+    <option name="LEGACY_SETTING_USE_FQ_CLASS_NAMES_IN_JAVADOC_IMPORTED" value="true" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
