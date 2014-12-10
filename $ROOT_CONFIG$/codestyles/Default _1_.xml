@@ -12,9 +12,6 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <JavaCodeStyleSettings>
-    <option name="LEGACY_SETTING_USE_FQ_CLASS_NAMES_IN_JAVADOC_IMPORTED" value="true" />
-  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
