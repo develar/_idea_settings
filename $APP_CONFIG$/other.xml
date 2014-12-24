@@ -241,25 +241,6 @@
   <component name="ImportFilteringUsageViewSetting">
     <option name="SHOW_IMPORTS" value="false" />
   </component>
-  <component name="InspectionProfileManager">
-    <info color="f7c600">
-      <option name="BACKGROUND" value="f6ebbc" />
-      <option name="ERROR_STRIPE_COLOR" value="f7c600" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="3f123f" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="3f123f" />
-    </info>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="TYPO" />
-      <item index="1" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="2" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="3" class="java.lang.String" itemvalue="3f123f" />
-      <item index="4" class="java.lang.String" itemvalue="INFO" />
-      <item index="5" class="java.lang.String" itemvalue="WARNING" />
-      <item index="6" class="java.lang.String" itemvalue="ERROR" />
-    </list>
-  </component>
   <component name="LastSelectedPropertiesFileStore" lastSelectedFileUrl="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties">
     <entry context="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/src/com/intellij/flex/uiDesigner/preview/MxmlPreviewPanel.java" url="file://$APPLICATION_HOME_DIR$/flex/tools/flex-ui-designer/idea-plugin/resources/messages/FlashUIDesignerBundle.properties" />
     <entry context="file://$APPLICATION_HOME_DIR$/community/xml/impl/src/com/intellij/ide/browsers/StartBrowserPanel.java" url="file://$APPLICATION_HOME_DIR$/community/platform/platform-resources-en/src/messages/XmlBundle.properties" />
@@ -322,29 +303,6 @@
   </component>
   <component name="TeamCityHistory">
     <option name="HISTORY" value="http://buildserver&amp;^%$#@vladimir.krivosheev@jetbrains.com" />
-  </component>
-  <component name="TemplateSettings">
-    <defaultShortcut shortcut="TAB" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="347fcf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="4c97ff" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="347fcf" />
-      <option name="FONT_TYPE" value="3" />
-      <option name="ERROR_STRIPE_COLOR" value="4c97ff" />
-      <option name="EFFECT_TYPE" value="0" />
-    </pattern>
-  </component>
-  <component name="UsageViewSettings">
-    <option name="filterDuplicatedLine" value="true" />
-    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
-    <option name="GROUP_BY_USAGE_TYPE" value="false" />
-    <option name="GROUP_BY_PACKAGE" value="false" />
   </component>
   <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/Dropbox">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dropbox" />

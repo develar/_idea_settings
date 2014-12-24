@@ -1,8 +1,4 @@
 <application>
-  <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="/usr/local/bin/git" />
-    <option name="SSH_EXECUTABLE" value="NATIVE_SSH" />
-  </component>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
       <list>
