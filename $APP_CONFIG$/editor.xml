@@ -1,28 +1,5 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
-    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
-    <option name="SHOW_REFORMAT_DIALOG" value="false" />
-    <option name="SHOW_OPIMIZE_IMPORTS_DIALOG" value="false" />
-  </component>
-  <component name="InspectionProfileManager">
-    <info color="f7c600">
-      <option name="BACKGROUND" value="f6ebbc" />
-      <option name="ERROR_STRIPE_COLOR" value="f7c600" />
-      <option name="EFFECT_TYPE" value="0" />
-      <option name="myName" value="3f123f" />
-      <option name="myVal" value="50" />
-      <option name="myExternalName" value="3f123f" />
-    </info>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="TYPO" />
-      <item index="1" class="java.lang.String" itemvalue="SERVER PROBLEM" />
-      <item index="2" class="java.lang.String" itemvalue="WEAK WARNING" />
-      <item index="3" class="java.lang.String" itemvalue="3f123f" />
-      <item index="4" class="java.lang.String" itemvalue="INFO" />
-      <item index="5" class="java.lang.String" itemvalue="WARNING" />
-      <item index="6" class="java.lang.String" itemvalue="ERROR" />
-    </list>
+  <component name="RubyEditorOptions">
+    <option name="startInterpolationOnHash" value="true" />
   </component>
 </application>

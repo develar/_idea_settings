@@ -1,0 +1,18 @@
+<filetype binary="false" description="Docker build file" name="Dockerfile">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords keywords="ADD;CMD;COPY;ENTRYPOINT;ENV;EXPOSE;FROM;MAINTAINER;ONBUILD;RUN;USER;VOLUME;WORKDIR" ignore_case="false" />
+    <keywords2 keywords="add-apt-repository;addgroup;adduser;apt-add-repository;apt-get;apt-key;cd;chmod;chown;cp;curl;dpkg;dpkg-divert;echo;ln;mkdir;mv;printf;rm;rsync;sed;tar;wget;yum" />
+    <keywords3 keywords="autoclean;autoremove;build-dep;changelog;check;clean;dist-upgrade;download;dselect-upgrade;install;purge;remove;source;update;upgrade" />
+    <keywords4 keywords="+A;+B;+C;+D;+E;+F;+G;+H;+I;+J;+K;+L;+M;+N;+O;+P;+Q;+R;+S;+T;+U;+V;+W;+X;+Y;+Z;+a;+b;+c;+d;+e;+f;+g;+h;+i;+j;+k;+l;+m;+n;+o;+p;+q;+r;+s;+t;+u;+v;+w;+x;+y;+z;--disabled-password;--force-yes;--gecos;--ingroup;--quiet;-A;-B;-C;-D;-E;-F;-G;-H;-I;-J;-K;-L;-M;-N;-O;-P;-Q;-R;-S;-T;-U;-V;-W;-X;-Y;-Z;-a;-b;-c;-d;-e;-f;-fr;-g;-h;-i;-j;-k;-l;-m;-n;-o;-p;-q;-r;-rf;-s;-t;-u;-v;-w;-x;-y;-z" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="Dockerfile" />
+  </extensionMap>
+</filetype>
