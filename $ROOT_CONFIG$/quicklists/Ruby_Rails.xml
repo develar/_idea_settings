@@ -1,4 +1,4 @@
-<list display="Ruby/Rails" description="" readonly="false">
+<list display="Ruby/Rails">
   <action id="org.jetbrains.plugins.ruby.rails.console.RunRailsConsoleAction" />
   <action id="org.jetbrains.plugins.ruby.console.RunIRBConsoleAction" />
   <action id="org.jetbrains.plugins.ruby.console.LoadInIrbConsoleAction" />

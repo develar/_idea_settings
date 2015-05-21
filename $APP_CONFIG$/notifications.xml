@@ -3,7 +3,6 @@
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" />
     <notification groupId="Execution" displayType="NONE" />
-    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
