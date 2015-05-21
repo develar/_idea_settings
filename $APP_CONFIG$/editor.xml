@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+  </component>
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
   </component>
