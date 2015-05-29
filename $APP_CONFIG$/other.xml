@@ -1,4 +1,5 @@
 <application>
+  <component name="BuiltInServerOptions" builtInServerPort="63346" />
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -62,5 +63,10 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
+  </component>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$USER_HOME$/Downloads/gwt-2.7.0" />
+    </gwt-sdk-list>
   </component>
 </application>
