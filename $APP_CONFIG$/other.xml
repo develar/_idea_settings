@@ -64,6 +64,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
       <gwt-sdk url="file://$USER_HOME$/Downloads/gwt-2.7.0" />
