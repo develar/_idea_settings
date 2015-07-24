@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="fcg-vmp" type="PLAIN_TEXT" />
+      <mapping pattern="forOnIterator" type="PLAIN_TEXT" />
+      <mapping pattern="callFunInInit" type="PLAIN_TEXT" />
+      <mapping pattern="Kt2388" type="PLAIN_TEXT" />
+      <mapping pattern="objectInheritingFromClass" type="PLAIN_TEXT" />
+      <mapping pattern="inheritFromJetIterator" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="run" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

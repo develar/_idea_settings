@@ -1,0 +1,26 @@
+<application>
+  <component name="EditorSettings">
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="InspectionProfileManager">
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="TYPO" />
+      <item index="1" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="2" class="java.lang.String" itemvalue="WARNING" />
+      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="4" class="java.lang.String" itemvalue="INFO" />
+      <item index="5" class="java.lang.String" itemvalue="ERROR" />
+    </list>
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="breadcrumbsEnabled" value="false" />
+  </component>
+</application>
