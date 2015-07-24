@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/Users/develar/.m2/repository" />
+    <macro name="WEBSTORM_PLUGINS" value="/Users/develar/Downloads/WebStorm.app/Contents/plugins" />
   </component>
 </application>
