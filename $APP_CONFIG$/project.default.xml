@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject version="4">
+    <defaultProject>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -19,13 +19,6 @@
             <processorPath useClasspath="true" />
           </profile>
         </annotationProcessing>
-      </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="Bundled (Maven 3)" />
-          </MavenGeneralSettings>
-        </option>
       </component>
       <component name="NamedScopeManager">
         <order />
@@ -115,7 +108,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
