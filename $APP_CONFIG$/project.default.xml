@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject>
+    <defaultProject version="4">
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -20,6 +20,13 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
       <component name="NamedScopeManager">
         <order />
       </component>
@@ -37,6 +44,10 @@
         <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -108,7 +119,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
