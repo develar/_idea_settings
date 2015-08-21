@@ -12,7 +12,6 @@
     <notification groupId="Error Report" shouldLog="false" />
     <notification groupId="Execution" displayType="NONE" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
-    <notification groupId="FindInPath" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Flex messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Framework Detection" />
