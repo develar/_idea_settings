@@ -1,0 +1,54 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Browser Connection" displayType="STICKY_BALLOON" />
+    <notification groupId="Browser Extension" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" displayType="NONE" />
+    <notification groupId="Debugger" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Error Report" shouldLog="false" />
+    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Flex messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Gem Manager" />
+    <notification groupId="Git Important Errors" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="github" />
+    <notification groupId="Gradle warnings" displayType="TOOL_WINDOW" />
+    <notification groupId="Grape" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" />
+    <notification groupId="IDE Usage Statistics" />
+    <notification groupId="Indexing" shouldLog="false" />
+    <notification groupId="Inspections" />
+    <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="Load Error" />
+    <notification groupId="Maven" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Module Manager" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Plugin Settings Error" />
+    <notification groupId="Plugins Lifecycle Group" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Project Settings" />
+    <notification groupId="Repository" />
+    <notification groupId="RVM Support" />
+    <notification groupId="Set Up Kotlin to JavaScript Module" />
+    <notification groupId="System Messages" />
+    <notification groupId="TeamCity.BuildFailed" />
+    <notification groupId="TeamCity.PersonalBuildFailed" displayType="STICKY_BALLOON" />
+    <notification groupId="Test Runner" displayType="NONE" />
+    <notification groupId="Unknown Natures Detected" />
+    <notification groupId="update.available.group" />
+    <notification groupId="Web Browser Connection" displayType="STICKY_BALLOON" />
+  </component>
+</application>
