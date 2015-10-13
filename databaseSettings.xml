@@ -3,11 +3,11 @@
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="?\d+" />
-        <parameter-pattern value=":\w+" />
+        <parameter-pattern value=":(\w+)" />
         <parameter-pattern value="%\w+" />
         <parameter-pattern value="$\{[^$\{\}]*\}" />
         <parameter-pattern value="$\w+$" />
-        <parameter-pattern value="#\w+#" />
+        <parameter-pattern value="#(\w+)#" />
       </parameter-patterns>
     </text-mode>
     <extractors>
