@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject version="4">
+    <defaultProject>
       <component name="CompilerConfiguration">
         <resourceExtensions />
         <wildcardResourcePatterns>
@@ -20,15 +20,15 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
             <option name="mavenHome" value="Bundled (Maven 3)" />
           </MavenGeneralSettings>
         </option>
-      </component>
-      <component name="NamedScopeManager">
-        <order />
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -40,12 +40,9 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectModuleManager">
-        <modules />
-      </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ics" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
